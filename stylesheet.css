@@ -290,7 +290,7 @@ section {
   height: 50rem;
   width: 100%;
   background: linear-gradient(45deg, #101112a1, #5a5d607c),
-    url("images/4.jpg") no-repeat;
+    url("Images/4.jpg") no-repeat;
     background-size: cover;
   border-radius: 1rem;
   border: 1px solid #777777;
@@ -684,5 +684,6 @@ footer small {
     text-align: center;
   }
 }
+
 
 /* ===( Build By :Bhavesh )=== */
